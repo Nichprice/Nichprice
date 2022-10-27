@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nichprice
+- 👋 Hi, I’m @nichprice
 - 👀 I’m interested in coffee, code, and F1
 - 🌱 I’m currently learning Django
 - 📫 How to reach me: price.nich@gmail.com
