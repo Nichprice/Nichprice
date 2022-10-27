@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nichprice
 - 👀 I’m interested in coffee, code, and F1
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: price.nich@gmail.com
 
 <!---
