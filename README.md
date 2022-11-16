@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @nichprice
 - 👀 I’m interested in coffee, code, and F1
 - 🌱 I’m currently learning Django
+- 👨‍🎓 Undergrad: Rutgers University '17
+- 🥾 Bootcamp: Flatiron School '22
 - 📫 Email me: price.nich@gmail.com
 - 📟 Discord: price_nich#0115
 
